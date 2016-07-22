@@ -22,7 +22,7 @@ pip install pytesseract
 
 Just run: `python main.py`
 
-* `iteration.py`: iteration multiple times of original image
+* `iteration.py`: iterate multiple times of original image
 * `convert_to_text.py`: read out the string from white-gray image,
 
 ## Screenshots
